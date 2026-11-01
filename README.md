@@ -27,7 +27,7 @@ Busco ......... Vaga de Product Designer Jr / UX
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
 
 ### ⚡ Fun fact
-Morei no Japão, pedalo com a Vespas Bike Gang e falo inglês (C1).
+Já morei no Japão 🇯🇵, sou apaixonada por esporte e rodo São Paulo de bike com o Vespas Bike Gang 🚴‍♀️. Em casa, quem manda é a Mika, minha gata 🐈.
 
 ### 📫 Contato
 [LinkedIn](https://www.linkedin.com/in/SEU-USUARIO) · [Portfólio](https://SEU-PORTFOLIO) · alexafnmoura@gmail.com
