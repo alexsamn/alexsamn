@@ -1,8 +1,7 @@
 ## Oi, eu sou a Alexsandra 👋
 
-**Product Designer em transição, vindo de 10+ anos desenvolvendo produto têxtil.**
-Antes eu desenhava a peça, escrevia a ficha técnica e validava o caimento no corpo. Hoje faço o mesmo com interfaces: pesquisa, protótipo e teste com quem vai usar.
-
+**Product Designer em transição**
+Product Designer em transição, vindo de 10+ anos desenvolvendo produto têxtil. 
 ```
 FICHA TÉCNICA
 ─────────────────────────────────────────────
