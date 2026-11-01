@@ -15,7 +15,7 @@ Busco ......... Vaga de Product Designer Jr / UX
 
 EM ANDAMENTO ───────────────────────────────────────────
 
-01 ............ Oficina Indicada
+01 ............ Oficina ElasIndica
                 Mapa de oficinas de bike indicadas por
                 mulheres ciclistas em SP
 
