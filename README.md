@@ -1,7 +1,7 @@
 ## Oi, eu sou a Alexsandra 👋
 
 **Product Designer em transição**
-Venho de 10+ anos desenvolvendo produto têxtil. 
+vindo de 10+ anos desenvolvendo produto têxtil. 
 ```
 FICHA TÉCNICA
 ─────────────────────────────────────────────
