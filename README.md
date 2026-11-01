@@ -36,4 +36,4 @@ Comunidade ...... Vespas
 Chefe da casa ... Mika, minha gata
 ```
 
-📫 [LinkedIn](https://www.linkedin.com/in/alexsandramoura/) · [Portfólio](https://www.alexsandramoura.com.br/) · alexafnmoura@gmail.com
+📫 [Portfólio](https://www.alexsandramoura.com.br/)
