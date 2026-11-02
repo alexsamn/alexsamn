@@ -1,4 +1,4 @@
-## Oi 👋
+## Oi! 👋
 ```
 FICHA TÉCNICA ──────────────────────────────────────────
 
@@ -9,7 +9,7 @@ Experiência ... 10+ anos em desenvolvimento de produto têxtil
 Formação ...... Design de Moda (Senac)
                 Análise e Desenv. de Sistemas (FIAP)
 Em curso ...... Product Design (Design Circuit)
-Destaque ...... IA Aplicada (Todas em Tech {Reprograma})
+Destaque ...... IA Aplicada · Todas em Tech (Reprograma)
 Busco ......... Vaga de Product Designer Jr · UI/UX
 
 
@@ -18,8 +18,9 @@ EM ANDAMENTO ──────────────────────�
 01 ............ ElasIndica
                 Mapa de oficinas de bike indicadas por
                 mulheres ciclistas em SP
-02 ............ Todas em Tech {Reprograma}
-                Projetos do curso IA Aplicada 
+
+02 ............ Todas em Tech (Reprograma)
+                Projetos do curso IA Aplicada
 
 
 FERRAMENTAS ────────────────────────────────────────────
