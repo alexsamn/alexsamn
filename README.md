@@ -1,4 +1,4 @@
-## Oi, me chamo Alexsandra Moura 👋
+## Oi 👋
 ```
 FICHA TÉCNICA ──────────────────────────────────────────
 
