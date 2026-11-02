@@ -10,7 +10,7 @@ Formação ...... Design de Moda (Senac)
                 Análise e Desenv. de Sistemas (FIAP)
 Em curso ...... Product Design (Design Circuit)
 Destaque ...... IA Aplicada (Reprograma · Todas em Tech)
-Busco ......... Vaga de Product Designer Jr / UI/UX
+Busco ......... Vaga de Product Designer Jr · UI/UX
 
 
 EM ANDAMENTO ───────────────────────────────────────────
@@ -30,10 +30,10 @@ IA ............ Claude · ChatGPT · FLORA
 
 FORA DO TRABALHO ───────────────────────────────────────
 
-Nasci em ........ Goiânia
-Paixão .......... ciclismo, esporte e comida
-Comunidade ...... Vespas 
-Chefe da casa ... Mika, minha gata
+Nasci em ...... Goiânia
+Paixão ........ ciclismo, esporte e comida
+Comunidade .... Vespas
+Chefe da casa . Mika, minha gata
 ```
 
 📫 [Portfólio](https://www.alexsandramoura.com.br/)
