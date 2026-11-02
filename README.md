@@ -1,4 +1,4 @@
-## Oi! 👋
+Oi! 👋
 ```
 FICHA TÉCNICA ──────────────────────────────────────────
 
@@ -36,7 +36,7 @@ FORA DO TRABALHO ─────────────────────
 Nasci em ...... Goiânia
 Paixão ........ ciclismo, esporte e comida
 Comunidade .... Vespas
-Chefe da casa . Mika, minha gata :cat:
+Quem manda .... Mika, minha gata 🐈
 ```
 
 📫 [Portfólio](https://www.alexsandramoura.com.br/)
