@@ -1,4 +1,4 @@
-## Oi, eu sou a Alexsandra 👋
+## Oi, me chamo Alexsandra Moura 👋
 ```
 FICHA TÉCNICA ──────────────────────────────────────────
 
@@ -9,7 +9,7 @@ Experiência ... 10+ anos em desenvolvimento de produto têxtil
 Formação ...... Design de Moda (Senac)
                 Análise e Desenv. de Sistemas (FIAP)
 Em curso ...... Product Design (Design Circuit)
-Destaque ...... IA Aplicada (Reprograma · Todas em Tech)
+Destaque ...... IA Aplicada (Todas em Tech {Reprograma})
 Busco ......... Vaga de Product Designer Jr · UI/UX
 
 
@@ -18,6 +18,8 @@ EM ANDAMENTO ──────────────────────�
 01 ............ ElasIndica
                 Mapa de oficinas de bike indicadas por
                 mulheres ciclistas em SP
+02 ............ Todas em Tech {Reprograma}
+                Projetos do curso IA Aplicada 
 
 
 FERRAMENTAS ────────────────────────────────────────────
@@ -33,7 +35,7 @@ FORA DO TRABALHO ─────────────────────
 Nasci em ...... Goiânia
 Paixão ........ ciclismo, esporte e comida
 Comunidade .... Vespas
-Chefe da casa . Mika, minha gata
+Chefe da casa . Mika, minha gata :cat:
 ```
 
 📫 [Portfólio](https://www.alexsandramoura.com.br/)
