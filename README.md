@@ -1,5 +1,4 @@
 <pre>
-  <pre>
 FICHA TÉCNICA ─────────────────────────────── REF. AM-2026
 
 Nome .......... Alexsandra Moura
