@@ -29,11 +29,7 @@ Rede Semente .. 1º lugar · WoHackers · ago/2026
                 Fundo comunitário em blockchain para
                 microempreendedoras comprarem equipamento
 
-<a href="https://selo-raiz.vercel.app">Selo Raiz</a> ..... Festival Compartilhe · ARTIGO 19 + EFF
-                Reputação de vendedora que viaja entre
-                marketplaces, com consentimento (LGPD)
-
-<a href="https://garimpaai-mvp.replit.app">Garimp.AI</a> ..... Techstars Startup Weekend IA · direção do time
+Garimp.AI ..... Techstars Startup Weekend IA · direção do time
                 Agente de IA que conecta artistas
                 e colecionadores
 
