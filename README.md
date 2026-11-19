@@ -1,4 +1,4 @@
-<img width="800" height="240" alt="ficha-animada" src="https://github.com/user-attachments/assets/6dc9e45e-2d91-4866-8430-01ec18652bc3" />!<svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240" role="img" aria-label="Ficha técnica: Alexsandra Moura, Product Designer UI/UX e IA Aplicada, do produto têxtil ao produto digital">
+<img width="800" height="240" alt="ficha-animada" src="https://github.com/user-attachments/assets/33c97481-6c0c-4ad7-a60e-23c8157df751" />![Uplo<svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240" role="img" aria-label="Ficha técnica: Alexsandra Moura, Product Designer UI/UX e IA Aplicada, do produto têxtil ao produto digital">
   <defs>
     <pattern id="grade" width="20" height="20" patternUnits="userSpaceOnUse">
       <path d="M20 0H0V20" fill="none" stroke="#E3DFE7" stroke-width="1"/>
@@ -70,6 +70,9 @@
   </g>
 
 </svg>
+ading ficha-animada.svg…]()
+
+
 [Uploading ficha-animada.svg…]()
 
 <pre>
