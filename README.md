@@ -1,7 +1,7 @@
 <img src="ficha-animada.svg" alt="Ficha técnica: Alexsandra Moura, Product Designer UI/UX e IA Aplicada" width="100%">
 
 <pre>
-Busco ......... Vaga Jr em Product Design
+Busco ......... Vaga em Product Design
 Base .......... São Paulo, SP
 Idiomas ....... Português (nativo) · Inglês (C1)
 
@@ -41,19 +41,11 @@ Rede Semente .. 1º lugar · WoHackers · ago/2026
 ORIGEM ─────────────────────────────────────────────────
 
 10+ anos ...... Desenvolvimento de produto têxtil
-Liderei ....... Linha Bike/Ciclismo da Lupo (via L'atelier)
-                do conceito à ficha técnica e prova de modelagem
-Na prática .... ficha técnica  →  spec de produto
-                amostra        →  protótipo
-                prova de peça  →  teste com usuário
-                fábrica        →  handoff para dev
-
 
 FORMAÇÃO ───────────────────────────────────────────────
 
 Design de Moda ........ Senac
 Análise e Desenv. ..... FIAP
-UX .................... Menina de UX (bootcamp)
 IA Aplicada ........... Todas em Tech · Reprograma (2026)
 Em curso .............. Product Design · Design Circuit
 
@@ -76,8 +68,6 @@ NO AR ────────────────────────�
 <a href="https://github.com/alexsamn/reprograma-ia-aplicada">Reprograma</a> .... 13 entregas do curso IA Aplicada
                 (9 individuais · 4 em grupo)
 
-<a href="https://momotaro.store">Momotaro</a> ...... Loja de roupa de ciclismo · Shopify
-
 
 FERRAMENTAS ────────────────────────────────────────────
 
@@ -95,12 +85,10 @@ FORA DO TRABALHO ─────────────────────
 Nasci em ...... Goiânia
 Morei no ...... Japão
 Pedalo com .... Vespas Bike Gang
-Mora comigo ... Mika (a gata da fita métrica)
+Mora comigo ... Mika 
 
 
 CONTATO ────────────────────────────────────────────────
 
 Portfólio ..... <a href="https://alexsandramoura.com.br">alexsandramoura.com.br</a>
 LinkedIn ...... <a href="https://www.linkedin.com/in/alexsandramoura">in/alexsandramoura</a>
-E-mail ........ <a href="mailto:SEU-EMAIL">SEU-EMAIL</a>
-</pre>
