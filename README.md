@@ -1,8 +1,9 @@
+<pre>
 FICHA TÉCNICA ─────────────────────────────── REF. AM-2026
 
 Nome .......... Alexsandra Moura
-Função ........ Product Designer · UI/UX · AI Builder
-Busco ......... Vaga em Product Design
+Função ........ Product Designer · UI/UX
+Busco ......... Vaga Jr em Product Design
 Base .......... São Paulo, SP
 Idiomas ....... Português (nativo) · Inglês (C1)
 
