@@ -1,3 +1,5 @@
+<img src="ficha-animada.svg" alt="Ficha técnica: Alexsandra Moura, Product Designer UI/UX e IA Aplicada" width="100%">
+
 <pre>
 Busco ......... Vaga Jr em Product Design
 Base .......... São Paulo, SP
